@@ -1,0 +1,17 @@
+VPN
+https:\\iris.acendre.com
+vijay.pandit
+Vjypnd468
+
+WEB MAIL
+
+vijay.pandit@nga.net	
+Vjypnd468
+
+vijay-acendre.visualstudio.com
+
+
+TestA_MultiLineTextArea 
+TestA_MultipleItemsList 
+TestA_SingleItemList 
+TestA_SingleLineTextBox  
